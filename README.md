@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hola! 👋, soy Vera 
 
-<!--
-**jose-vera-igt/jose-vera-igt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A bit about me: 🤘
+Backend-oriented software developer engineer based in Guadalajara, MX. 
+I am a proactive, confident and communicatively strong person, always looking towards the future. I stand for quality, innovation and building useful products following best practices.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on External Founding Services
+- 👯 I’m looking to collaborate with IGT-BE devs 
+- ⚡ Fun fact: "More you have, More you want"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I'm Learning:
+<p align="left">
+    <a href="#Jenkins" alt="Skill"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Jenkins-Dark.svg" style="max-width: 4%;"/></a>
+    <a href="#Kubernetes" alt="Skill"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Kubernetes.svg" style="max-width: 4%;"/></a>
+</p>
+
+### 🛠 Current Stack:
+<p align="left">
+    <a href="#.NetFramework" alt="Skill"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
+    <a href="#C#" alt="Skill"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+    <a href="#SQLServer" alt="Skill"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/></a>
+    <a href="#Linux" alt="Skill"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+    <a href="#Git" alt="Skill"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
+</p>
+
+
+
+
+
+
+
+
+
