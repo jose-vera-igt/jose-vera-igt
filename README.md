@@ -10,8 +10,8 @@ I am a proactive, confident and communicatively strong person, always looking to
 
 ### 🌱 I'm Learning:
 <p align="left">
-    <a href="#Jenkins" alt="Skill"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Jenkins-Dark.svg" style="max-width: 4%;"/></a>
-    <a href="#Kubernetes" alt="Skill"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Kubernetes.svg" style="max-width: 4%;"/></a>
+    <a href="#Jenkins" alt="Skill"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Jenkins-Dark.svg" width="45" style="max-width: 4%;"/></a>
+    <a href="#Kubernetes" alt="Skill"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Kubernetes.svg" width="45" style="max-width: 4%;"/></a>
 </p>
 
 ### 🛠 Current Stack:
